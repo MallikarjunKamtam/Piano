@@ -1,0 +1,21 @@
+body{background-color: black;
+text-align: center;
+font-family: 'Dosis', sans-serif;}
+
+h1, p{color: grey
+}
+
+.all-buttons{margin-top: 5%}
+
+.line1 button, .line2 button, .line3 button{
+padding: 3% 1%;
+border-radius: 10%;
+font-size: 2rem}
+
+
+footer{padding-top: 3%;
+color: grey}
+
+.pressed{
+  background-color: grey
+}
